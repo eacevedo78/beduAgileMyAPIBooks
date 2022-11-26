@@ -1,2 +1,2 @@
-# myAPI
-myAPI is the proyect used in bedu DevOps Fundamentals course
+# myAPI Books
+API realizada en python y flask para consulta de libros
